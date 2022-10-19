@@ -1,8 +1,17 @@
 # Exercicis Matrius
+
+### Activitat resolta per✒️
+
+-   Joel Felipe Díaz Carissimi - [joeldiazcc](https://github.com/joeldiazcc)
+
+
+
 ## Exercici 1
 Omple la funció 'paintAll' de manera que totes les cel·les de la taula es pintin de vermell:
 
-![paintAll](images/paintAll.png "paintAll")
+![paintAll](images/paintAll.png "paintA
+
+ll")
 ## Exercici 2
 Omple la funció 'erase' de manera que totes les cel·les de la taula s'esborrin (es pintin de blanc)
 
