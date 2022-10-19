@@ -43,3 +43,19 @@ Com l'exercici anterior però amb el patró invertit. (Els que estaven pintats p
 ## Proves
 El botó 'Test' fa proves i treu el resultat per consola. Comproveu que us surti tot bé.
 Recordeu que heu de fer totes les funcions que funcionin per qualsevol mida de taula.
+
+## Part 2
+
+## Exercici 1
+Omple 'paintNeighbour' de manera que quedin pintades les cel·les del voltant de la cel·la indicada
+
+![inputs](images/inputs.png "inputs")
+
+
+![paintNeighbour](images/paintNeighbours.png "paintNeighbours")
+
+
+## Exercici 2
+Omple 'paintAllNeighbours' de manera que cada cel·la indiqui el nombre de cel·les vermelles del seu voltant.
+
+![paintNeighbour](images/paintAllNeighbours.png "paintAllNeighbours")
